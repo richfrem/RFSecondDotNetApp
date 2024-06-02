@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TEgIHOlI+fymZ4G0ti4vydmPxqjwrpdEsYm0z25rqyo=",
+  "Source": "RFSecondDotNetApp",
+  "BasePath": "_content/RFSecondDotNetApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
